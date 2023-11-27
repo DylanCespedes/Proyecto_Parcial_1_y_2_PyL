@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Ij8ssEcDNPO4awwxQjNao3MUGAOQLP1JA430pFxRrmGGPtvmx2zeG/NO/CqXdMU6h7MgTwrAsS5tng+uqL22g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicoC\\source\\repos\\Sysacad\\Sysacad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicoC\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

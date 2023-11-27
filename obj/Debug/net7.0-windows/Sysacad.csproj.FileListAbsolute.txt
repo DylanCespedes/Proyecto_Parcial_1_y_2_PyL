@@ -1,0 +1,37 @@
+C:\Users\nicoC\source\repos\Sysacad\bin\Debug\net7.0-windows\Sysacad.exe
+C:\Users\nicoC\source\repos\Sysacad\bin\Debug\net7.0-windows\Sysacad.deps.json
+C:\Users\nicoC\source\repos\Sysacad\bin\Debug\net7.0-windows\Sysacad.runtimeconfig.json
+C:\Users\nicoC\source\repos\Sysacad\bin\Debug\net7.0-windows\Sysacad.dll
+C:\Users\nicoC\source\repos\Sysacad\bin\Debug\net7.0-windows\Sysacad.pdb
+C:\Users\nicoC\source\repos\Sysacad\bin\Debug\net7.0-windows\BCrypt.Net-Next.dll
+C:\Users\nicoC\source\repos\Sysacad\bin\Debug\net7.0-windows\Biblioteca SYSACAD.dll
+C:\Users\nicoC\source\repos\Sysacad\bin\Debug\net7.0-windows\Biblioteca SYSACAD.pdb
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.csproj.AssemblyReference.cache
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.CambiarContrasena.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.CrearCuenta.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.EditarEstudiante.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.LogAdmin.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.MenuAdministrador.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.formIniciar.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.MenuPrincipal.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.Properties.Resources.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.csproj.GenerateResource.cache
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.AssemblyInfoInputs.cache
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.AssemblyInfo.cs
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.csproj.CoreCompileInputs.cache
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.csproj.CopyComplete
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.dll
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\refint\Sysacad.dll
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.pdb
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.genruntimeconfig.cache
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\ref\Sysacad.dll
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.CrearCurso.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.Cursos.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.MenuInscribirse.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.EditarCurso.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.Horarios.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.ElegirMetodo.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.RealizarPaga.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.RealizarPagaTransferencia.resources
+C:\Users\nicoC\source\repos\Sysacad\obj\Debug\net7.0-windows\Sysacad.ConceptosDePago.resources
