@@ -1,0 +1,11 @@
+C:\Users\nicoC\source\repos\Entidad\obj\Debug\net7.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicoC\source\repos\Entidad\obj\Debug\net7.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\nicoC\source\repos\Entidad\obj\Debug\net7.0\Entidad.AssemblyInfo.cs
+C:\Users\nicoC\source\repos\Entidad\obj\Debug\net7.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\nicoC\source\repos\Entidad\bin\Debug\net7.0\Entidad.deps.json
+C:\Users\nicoC\source\repos\Entidad\bin\Debug\net7.0\Entidad.dll
+C:\Users\nicoC\source\repos\Entidad\bin\Debug\net7.0\Entidad.pdb
+C:\Users\nicoC\source\repos\Entidad\obj\Debug\net7.0\Entidad.dll
+C:\Users\nicoC\source\repos\Entidad\obj\Debug\net7.0\refint\Entidad.dll
+C:\Users\nicoC\source\repos\Entidad\obj\Debug\net7.0\Entidad.pdb
+C:\Users\nicoC\source\repos\Entidad\obj\Debug\net7.0\ref\Entidad.dll
